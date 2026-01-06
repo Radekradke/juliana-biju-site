@@ -1,4 +1,4 @@
-# 💍 Juliana Biju — Site Institucional
+# 💍 Juliana Biju — Site Comercial
 
 Projeto desenvolvido para a marca **Juliana Biju**, com foco em identidade visual,
 apresentação de produtos e presença digital.
